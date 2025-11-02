@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "f8030e5d9041c942",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1417347adc4a10a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f696a06c842afec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Central.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa8f38692e4f93a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb3505f1b5461c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8a3308cac27a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d165ee67298544ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74d0a44e62d4b272",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b32f8604da827a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "121ec89b2d62875b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ee88c7d19e23a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Central.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "152a2a06a614fb6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Central.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d9d5c52422ab2bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a17ffacfb1db0c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Central.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f696a06c842afec",
+  "lastOpenFiles": [
+    "Current Active Tokens.md",
+    "000 Central.md",
+    "S5.md",
+    "T2.md",
+    "T2 Past Exams.md",
+    "T2 2015 Practice Exam.md",
+    "T2 2015 Practice Exam Question 2 - Angular Momentum Spectrum.md",
+    "E5 2025 Sheet 01 Question 1 - Unit Conversions.md",
+    "E5 2025 Sheet 01.md",
+    "E5 Sheets 2025.md"
+  ]
+}

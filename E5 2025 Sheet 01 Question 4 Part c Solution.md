@@ -1,0 +1,1 @@
+![](file:///C:/Users/teroc/Documents/Good%20Document/Physics/S5/markdown-image-880957.png)

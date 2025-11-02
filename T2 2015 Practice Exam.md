@@ -1,0 +1,10 @@
+
+
+## [[T2 2015 Practice Exam Question 2 - Angular Momentum Spectrum]]
+
+
+## [[T2 2015 Practice Exam Question 3 - 3D Harmonic Oscillator]]
+
+
+## [[T2 2015 Practice Exam Question 5 - Harmonic Oscillator]]
+
