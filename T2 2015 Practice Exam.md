@@ -6,5 +6,10 @@
 ## [[T2 2015 Practice Exam Question 3 - 3D Harmonic Oscillator]]
 
 
+## [[T2 2015 Practice Exam Question 4 - Qualitative Analysis of Potentials]]
+
+
 ## [[T2 2015 Practice Exam Question 5 - Harmonic Oscillator]]
 
+
+## [[T2 2015 Practice Exam Question 6 - Perturbation Theory]]

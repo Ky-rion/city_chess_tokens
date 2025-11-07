@@ -10,6 +10,8 @@
 
 ## [[E5 2025 Sheet 01 Question 1 Part b Solution]]
 
+## [[Einstein Triangle]]
+
 
 # 1 c
 ![[Pasted image 20251031171013.png]]

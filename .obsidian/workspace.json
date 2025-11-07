@@ -11,8 +11,12 @@
             "id": "7732b7b3d99c283b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Current Active Tokens.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Current Active Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Current Active Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Current Active Tokens.md"
+              }
             }
           }
         ]
@@ -130,15 +138,15 @@
   },
   "active": "7732b7b3d99c283b",
   "lastOpenFiles": [
+    "Loop Test.md",
     "Current Active Tokens.md",
     "000 Central.md",
-    "T4 2025 Sheet 02 Question 1 - Integrating 1-forms.md",
-    "T4 2025 Sheet 02 Question 1 Part c Solution.md",
-    "T4 2025 Sheet 02 Question 1 Part a Solution PRO.md",
-    "T4 2025 Sheet 02.md",
-    "T4 Sheets 2025.md",
-    "T4.md",
-    "S5.md",
-    "E5 2025 Sheet 01 Question 2 Part a Solution PRO.md"
+    "E6 2025 Sheet 04 Question 2 - Diffractogram.md",
+    "E6 2025 Sheet 04 Question 2 Parts a+b Solution.md",
+    "E6 2025 Sheet 04.md",
+    "E6 Sheets 2025.md",
+    "E6 2025 Sheet 03.md",
+    "E6.md",
+    "S5.md"
   ]
 }
