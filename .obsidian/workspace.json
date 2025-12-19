@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b1417347adc4a10a",
+        "id": "bdeabe28fbe3bc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "7732b7b3d99c283b",
+            "id": "62fd005e209f4131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E5 2025 Sheet 04 Question 3 - Solar Neutrinos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f981ea264f81fffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +31,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa19ac6caf5832e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7732b7b3d99c283b",
+  "active": "f981ea264f81fffd",
   "lastOpenFiles": [
-    "Loop Test.md",
+    "E5 2025 Sheet 04 Question 3 - Solar Neutrinos.md",
+    "E5 2025 Sheet 04 Question 3 Part c Solution.md",
+    "E5 2025 Sheet 04 Question 3 Part a Solution.md",
+    "E5 2025 Sheet 04 Question 3 Part b Solution.md",
     "Current Active Tokens.md",
-    "000 Central.md",
-    "E6 2025 Sheet 04 Question 2 - Diffractogram.md",
-    "E6 2025 Sheet 04 Question 2 Parts a+b Solution.md",
-    "E6 2025 Sheet 04.md",
-    "E6 Sheets 2025.md",
-    "E6 2025 Sheet 03.md",
-    "E6.md",
-    "S5.md"
+    "E5 2025 Sheet 04.md",
+    "E5 Sheets 2025.md",
+    "E5.md",
+    "S5.md",
+    "000 Central.md"
   ]
 }
