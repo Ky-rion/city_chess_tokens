@@ -1,5 +1,4 @@
 
-
 # Question 2
 ![[Pasted image 20251209103045.png]]
 

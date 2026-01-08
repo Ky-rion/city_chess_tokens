@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "Reverie"
+  "cssTheme": "Reverie",
+  "baseFontSize": 16,
+  "accentColor": ""
 }
