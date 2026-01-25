@@ -1,7 +1,7 @@
 
 
-# [[E6 2025 Sheet 01]]
-
+# [[E6 2025 Sheet 01]] 
+^ Research sheet, not really worth it
 
 # [[E6 2025 Sheet 02]]
 
@@ -21,4 +21,14 @@
 # [[E6 2025 Sheet 07]]
 
 
+# [[E6 2025 Sheet 08]]
 
+
+# [[E6 2025 Sheet 09]]
+
+
+
+
+
+
+# [[E6 Disqualified Tokens]]

@@ -462,8 +462,124 @@ New E5 Tokens:
 
 
 
+Alright, I now have to do E6. There are a heck of a lot of these so I need an overview
+Furthermore, Here is what I also need: a way to incorporate the real solutions
+I want to be able to look at the actual pictures
+So I'll put the full solutions for reference on all the tokens
+Don't need to put in that much effort actually, right?
+Maybe I will, split the pdf into sections for questions, it's an alright idea
+We have sheet solutions up to 9
+Let's set this up
+
+28 tokens that I need to capture
+That's quite a lot, actually
+How about I find one that I don't have yet and set up a template
+Better yet, how about this, I first record those that I have
+These are stolen from "Inactive Tokens"
+
+E6_2025_SH_03_Q3
+E6_2025_SH_03_Q4
+E6_2025_SH_04_Q2
+E6_2025_SH_04_Q3
+
+**More complete**
+E6_2025_SH_05_Q1 (this one's good, though)
+E6_2025_SH_05_Q2
+E6_2025_SH_05_Q3
+E6_2025_SH_05_Q4
+E6_2025_SH_07_Q1
+
+They're good but they're not perfect because they don't have/use the Prof answers
+Let's mark them down anyway and come back when I have time (if I have time, more like)
+Let's take a look at the incomplete ones, but I'll probably have to redo them anyway
+I can capture two tokens per glass, pretty sure of that
+Probably not more, though
+But I can be fast when I need to be
+I need to close this string, there's too much energy in it for any other result
+Then let's check the incomplete ones!
+sh 3 q 4 maybe okay?
+"It explains why _nothing_ is perfect, especially as it gets warmer."
+Right, then, I'll redo all of them
+But I want to stick them somewhere first
+
+Oh, and I'll say this, the string completes at the end of sheet 9. Doesn't matter if 10 gets released, it still ends at 9
+This is a valid interpretation of the condition
+
+Great, only 23 questions left
+Let's see how many I can still get done today
+I really wish I had assigned more time for this stuff
+Hey, Can't I US this into C2 still?
+There has to be a way, right?
+Just one glass, I have to at least get two tokens like this, come on
+The answers have slightly different formatting but it should be fine. Where should I put them?
+Also, you know what, I'll spend this last glass also setting things up
+So making the skeleton of the tokens, also maybe making a question collection (stealing)
+I'll put in the questions for all of them, then later put in the answers, then do the computer pass
+This is gonna run like a printer
+
+And yet, it really does take more time than expected
+It will be worth it in the end, have faith
+And with the printer approach, I can stop it at the prof answers in case of an emergency, so it's safer
 
 
+
+- [x] Sheet 1
+	- [x] Doesn't count, it's the research sheet
+- [ ] Sheet 2
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+	- [ ] Question 4
+- [ ] Sheet 3
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+	- [ ] Question 4
+- [ ] Sheet 4
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+- [x] Sheet 5
+	- [x] Question 1 OLD
+	- [x] Question 2 OLD
+	- [x] Question 3 OLD
+	- [x] Question 4 OLD
+- [ ] Sheet 6
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+- [ ] Sheet 7
+	- [x] Question 1 OLD
+	- [ ] Question 2
+	- [ ] Question 3
+- [ ] Sheet 8
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+	- [ ] Question 4
+- [ ] Sheet 9
+	- [ ] Question 1
+	- [ ] Question 2
+	- [ ] Question 3
+
+
+
+
+New E6 tokens:
+
+
+
+[[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
+
+[[E6 2025 Sheet 05 Question 2 - Dispersion KBr|E6_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 05 Question 3 - Phonon Density of States|E6_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+
+
+[[E6 2025 Sheet 07 Question 1 - Umklapp Scattering|E6_2025_SH_07_Q1]]
 
 
 
