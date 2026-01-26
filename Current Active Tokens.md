@@ -522,23 +522,81 @@ It will be worth it in the end, have faith
 And with the printer approach, I can stop it at the prof answers in case of an emergency, so it's safer
 
 
+Let's do some solid-state physics! You are my solid-state professor and I am the curious student who has never seen the material before. Please explain the answer to this question. I have also included the solution from another professor, please explain using his answers. Answer always in English and in lots of good detail. Answer only a) for the moment, we'll get to the other parts of the question later. Thank you!
+
+Let's do some solid-state physics! You are my solid-state professor and I am the curious student who has never seen the material before. Please explain the answer to this question. I have also included the solution from another professor, please explain using his answers. Answer always in English and in lots of good detail. Thank you!
+
+Now, rewrite your previous response exactly but remove every single citation, bracketed number, and grounding tag. Provide only the clean text so I can copy-paste it elsewhere.
+
+Here is the next part of the question, please also answer this one in lots of good detail. 
+Thank you!
+
+Thank you for the explanation! Could you make a little summary of important formulas and concepts from this question, something that I could write on a cheat sheet in case this comes up in an exam? Thank you!
+
+
+
+
 
 - [x] Sheet 1
 	- [x] Doesn't count, it's the research sheet
 - [ ] Sheet 2
 	- [ ] Question 1
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 4
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [ ] Sheet 3
 	- [ ] Question 1
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 4
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [ ] Sheet 4
 	- [ ] Question 1
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [x] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [x] Sheet 5
 	- [x] Question 1 OLD
 	- [x] Question 2 OLD
@@ -546,22 +604,85 @@ And with the printer approach, I can stop it at the prof answers in case of an e
 	- [x] Question 4 OLD
 - [ ] Sheet 6
 	- [ ] Question 1
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [ ] Sheet 7
 	- [x] Question 1 OLD
 	- [ ] Question 2
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [ ] Sheet 8
 	- [ ] Question 1
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 4
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 - [ ] Sheet 9
 	- [ ] Question 1
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 2
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 	- [ ] Question 3
-
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
+- [ ] Sheet 10
+	- [ ] Question 1
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
+	- [ ] Question 2
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
+	- [ ] Question 3
+		- [ ] Question
+		- [ ] Prof Answer
+		- [ ] Computer Answer
+		- [ ] Concluding Summary
 
 
 
@@ -580,6 +701,187 @@ New E6 tokens:
 
 
 [[E6 2025 Sheet 07 Question 1 - Umklapp Scattering|E6_2025_SH_07_Q1]]
+
+
+
+
+
+
+
+
+
+
+
+
+Right, let's make an E6 corner
+
+
+
+#  A  B  A  C | A | B  A  B  A
+
+
+
+
+# A
+
+
+
+# B
+
+
+
+# C
+
+
+
+
+
+# All E6 Tokens
+
+Ordered
+
+[[E6 2025 Sheet 02 Question 1 - Crystal Structures|E6_2025_SH_02_Q1]]
+
+[[E6 2025 Sheet 02 Question 2 - Sphere Packing|E6_2025_SH_02_Q2]]
+
+[[E6 2025 Sheet 02 Question 3 - Polymorphism|E6_2025_SH_02_Q3]]
+
+[[E6 2025 Sheet 02 Question 4 - Metal Properties|E6_2025_SH_02_Q4]]
+
+
+[[E6 2025 Sheet 03 Question 1 - Miller Indices|E6_2025_SH_03_Q1]]
+
+[[E6 2025 Sheet 03 Question 2 - Lattice Planes|E6_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 03 Question 3 - Reciprocal Lattice|E6_2025_SH_03_Q3]]
+
+[[E6 2025 Sheet 03 Question 4 - Origin Shift|E6_2025_SH_03_Q4]]
+
+
+[[E6 2025 Sheet 04 Question 1 - Bragg Diffraction|E6_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 04 Question 2 - Diffractogram|E6_2025_SH_04_Q2]]
+
+[[E6 2025 Sheet 04 Question 3 - Shottky Defects|E6_2025_SH_04_Q3]]
+
+
+[[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
+
+[[E6 2025 Sheet 05 Question 2 - Dispersion KBr|E6_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 05 Question 3 - Phonon Density of States|E6_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+
+[[E6 2025 Sheet 06 Question 1 - Debye vs Einstein Model|E6_2025_SH_06_Q1]]
+
+[[E6 2025 Sheet 06 Question 2 - Thermal Conductivity|E6_2025_SH_06_Q2]]
+
+[[E6 2025 Sheet 06 Question 3 - Raman Spectroscopy|E6_2025_SH_06_Q3]]
+
+
+[[E6 2025 Sheet 07 Question 1 - Umklapp Scattering|E6_2025_SH_07_Q1]]
+
+[[E6 2025 Sheet 07 Question 2 - Lattice and Miller|E6_2025_SH_07_Q2]]
+
+[[E6 2025 Sheet 07 Question 3 - Phonons in Debye Model|E6_2025_SH_07_Q3]]
+
+
+[[E6 2025 Sheet 08 Question 1 - Scattering on Fermi Surface|E6_2025_SH_08_Q1]]
+
+[[E6 2025 Sheet 08 Question 2 - Electron Density|E6_2025_SH_08_Q2]]
+
+[[E6 2025 Sheet 08 Question 3 - Fermi Energy|E6_2025_SH_08_Q3]]
+
+[[E6 2025 Sheet 08 Question 4 - Fermi-Dirac Statistics|E6_2025_SH_08_Q4]]
+
+
+[[E6 2025 Sheet 09 Question 1 - Transport and Conductivity|E6_2025_SH_09_Q1]]
+
+[[E6 2025 Sheet 09 Question 2 - Conductivity's Temperature Dependence|E6_2025_SH_09_Q2]]
+
+[[E6 2025 Sheet 09 Question 3 - Hall Sensor|E6_2025_SH_09_Q3]]
+
+
+[[E6 2025 Sheet 10 Question 1 - Effective Mass, Energy Bands|E6_2025_SH_10_Q1]]
+
+[[E6 2025 Sheet 10 Question 2 - Quasi-free Electron Gas|E6_2025_SH_10_Q2]]
+
+[[E6 2025 Sheet 10 Question 3 - Fermi Energy, Occupation|E6_2025_SH_10_Q3]]
+
+
+
+
+Randomised
+
+[[E6 2025 Sheet 04 Question 3 - Shottky Defects|E6_2025_SH_04_Q3]]
+
+[[E6 2025 Sheet 02 Question 4 - Metal Properties|E6_2025_SH_02_Q4]]
+
+[[E6 2025 Sheet 10 Question 1 - Effective Mass, Energy Bands|E6_2025_SH_10_Q1]]
+
+[[E6 2025 Sheet 03 Question 1 - Miller Indices|E6_2025_SH_03_Q1]]
+
+[[E6 2025 Sheet 06 Question 1 - Debye vs Einstein Model|E6_2025_SH_06_Q1]]
+
+[[E6 2025 Sheet 02 Question 2 - Sphere Packing|E6_2025_SH_02_Q2]]
+
+[[E6 2025 Sheet 03 Question 3 - Reciprocal Lattice|E6_2025_SH_03_Q3]]
+
+[[E6 2025 Sheet 08 Question 2 - Electron Density|E6_2025_SH_08_Q2]]
+
+[[E6 2025 Sheet 07 Question 3 - Phonons in Debye Model|E6_2025_SH_07_Q3]]
+
+[[E6 2025 Sheet 10 Question 3 - Fermi Energy, Occupation|E6_2025_SH_10_Q3]]
+
+[[E6 2025 Sheet 02 Question 1 - Crystal Structures|E6_2025_SH_02_Q1]]
+
+[[E6 2025 Sheet 04 Question 2 - Diffractogram|E6_2025_SH_04_Q2]]
+
+[[E6 2025 Sheet 10 Question 2 - Quasi-free Electron Gas|E6_2025_SH_10_Q2]]
+
+[[E6 2025 Sheet 06 Question 3 - Raman Spectroscopy|E6_2025_SH_06_Q3]]
+
+[[E6 2025 Sheet 09 Question 1 - Transport and Conductivity|E6_2025_SH_09_Q1]]
+
+[[E6 2025 Sheet 09 Question 3 - Hall Sensor|E6_2025_SH_09_Q3]]
+
+[[E6 2025 Sheet 02 Question 3 - Polymorphism|E6_2025_SH_02_Q3]]
+
+[[E6 2025 Sheet 09 Question 2 - Conductivity's Temperature Dependence|E6_2025_SH_09_Q2]]
+
+[[E6 2025 Sheet 07 Question 1 - Umklapp Scattering|E6_2025_SH_07_Q1]]
+
+[[E6 2025 Sheet 03 Question 4 - Origin Shift|E6_2025_SH_03_Q4]]
+
+[[E6 2025 Sheet 08 Question 1 - Scattering on Fermi Surface|E6_2025_SH_08_Q1]]
+
+[[E6 2025 Sheet 08 Question 3 - Fermi Energy|E6_2025_SH_08_Q3]]
+
+[[E6 2025 Sheet 03 Question 2 - Lattice Planes|E6_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 05 Question 2 - Dispersion KBr|E6_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 04 Question 1 - Bragg Diffraction|E6_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 07 Question 2 - Lattice and Miller|E6_2025_SH_07_Q2]]
+
+[[E6 2025 Sheet 06 Question 2 - Thermal Conductivity|E6_2025_SH_06_Q2]]
+
+[[E6 2025 Sheet 05 Question 3 - Phonon Density of States|E6_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 08 Question 4 - Fermi-Dirac Statistics|E6_2025_SH_08_Q4]]
+
+[[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
+
+[[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+
+
+
+
+
 
 
 

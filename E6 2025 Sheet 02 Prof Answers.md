@@ -1,0 +1,1 @@
+![[E6_WS25_26_Übung 2_Kristallstrukturen_Misterlösung.pdf]]
