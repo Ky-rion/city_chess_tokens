@@ -27,7 +27,7 @@
 
 [[T4 2025 Sheet 06 Question 2 - Critical Point|T4_2025_SH_06_Q2]]
 
-[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos|E5_2025_SH_04_Q3]]
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
 
 [[T2 2014 Retake Exam Question 6 - Conserved Quantities|T2_2014_RE_Q6]]
 
@@ -324,7 +324,7 @@ New tokens will be added to the bottom of this list
 
 [[T4 2025 Sheet 06 Question 2 - Critical Point|T4_2025_SH_06_Q2]]
 
-[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos|E5_2025_SH_04_Q3]]
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
 
 
 
@@ -762,7 +762,7 @@ Ordered
 
 [[E6 2025 Sheet 04 Question 2 - Diffractogram|E6_2025_SH_04_Q2]]
 
-[[E6 2025 Sheet 04 Question 3 - Shottky Defects|E6_2025_SH_04_Q3]]
+[[E6 2025 Sheet 04 Question 3 - Schottky Defects|E6_2025_SH_04_Q3]]
 
 
 [[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
@@ -815,7 +815,7 @@ Ordered
 
 Randomised
 
-[[E6 2025 Sheet 04 Question 3 - Shottky Defects|E6_2025_SH_04_Q3]]
+[[E6 2025 Sheet 04 Question 3 - Schottky Defects|E6_2025_SH_04_Q3]]
 
 [[E6 2025 Sheet 02 Question 4 - Metal Properties|E6_2025_SH_02_Q4]]
 
@@ -876,6 +876,368 @@ Randomised
 [[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
 
 [[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's do some particle physics! You are my particle physics professor and I am the curious student who has never seen the material before. Please explain the answer to this question. I have also included the solution from another professor, please explain using his answers. Answer always in English and in lots of good detail. Answer only a) for the moment, we'll get to the other parts of the question later. Thank you!
+
+
+Let's do some particle physics! You are my particle physics professor and I am the curious student who has never seen the material before. Please explain the answer to this question. I have also included the solution from another professor, please explain using his answers. Answer always in English and in lots of good detail. Thank you!
+
+
+Here is the next part of the question, please also answer this one in lots of good detail. 
+Thank you!
+
+
+Thank you for the explanation! Could you make a little summary of important formulas and concepts from this question, something that I could write on a cheat sheet in case this comes up in an exam? Thank you!
+
+
+
+
+
+Here is a list of every E5 token
+
+[[E5 2025 Sheet 01 Question 1 - Unit Conversions|E5_2025_SH_01_Q1]]
+
+[[E5 2025 Sheet 01 Question 2 - Centre of Mass|E5_2025_SH_01_Q2]]
+
+[[E5 2025 Sheet 01 Question 3 - Cross Section and Luminosity|E5_2025_SH_01_Q3]]
+
+[[E5 2025 Sheet 01 Question 4 - Rutherford Scattering|E5_2025_SH_01_Q4]]
+
+
+[[E5 2025 Sheet 02 Question 1 - Basics of Special Relativity|E5_2025_SH_02_Q1]]
+
+[[E5 2025 Sheet 02 Question 2 - Rutherford Scattering|E5_2025_SH_02_Q2]]
+
+[[E5 2025 Sheet 02 Question 3 - Bethe-Weizsäcker Formula|E5_2025_SH_02_Q3]]
+
+
+[[E5 2025 Sheet 03 Question 1 - Radioactive Decay|E5_2025_SH_03_Q1]]
+
+[[E5 2025 Sheet 03 Question 2 - Radiocarbon Dating|E5_2025_SH_03_Q2]]
+
+[[E5 2025 Sheet 03 Question 3 - β-decay of Tritium|E5_2025_SH_03_Q3]]
+
+[[E5 2025 Sheet 03 Question 4 - Solar Neutrinos|E5_2025_SH_03_Q4]]
+
+
+[[E5 2025 Sheet 04 Question 1 - Nuclear Energy Generation|E5_2025_SH_04_Q1]]
+
+[[E5 2025 Sheet 04 Question 2 - Energy Loss of Cosmic Muons|E5_2025_SH_04_Q2]]
+
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
+
+[[E5 2025 Sheet 04 Question 4 - Particle Identification|E5_2025_SH_04_Q4]]
+
+
+[[E5 2025 Sheet 05 Question 1 - Let's Craft a Collider Detector!|E5_2025_SH_05_Q1]]
+
+[[E5 2025 Sheet 05 Question 2 - Particle Identification|E5_2025_SH_05_Q2]]
+
+[[E5 2025 Sheet 05 Question 3 - Storage Rings at CERN|E5_2025_SH_05_Q3]]
+
+[[E5 2025 Sheet 05 Question 4 - Determining Nuclear Radii|E5_2025_SH_05_Q4]]
+
+
+[[E5 2025 Sheet 06 Question 1 - Form Factor|E5_2025_SH_06_Q1]]
+
+[[E5 2025 Sheet 06 Question 2 - Kinematics of Scattering|E5_2025_SH_06_Q2]]
+
+[[E5 2025 Sheet 06 Question 3 - Deep Inelastic Scattering at HERA|E5_2025_SH_06_Q3]]
+
+
+randomised
+
+
+[[E5 2025 Sheet 02 Question 2 - Rutherford Scattering|E5_2025_SH_02_Q2]]
+
+[[E5 2025 Sheet 02 Question 1 - Basics of Special Relativity|E5_2025_SH_02_Q1]]
+
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
+
+[[E5 2025 Sheet 01 Question 3 - Cross Section and Luminosity|E5_2025_SH_01_Q3]]
+
+[[E5 2025 Sheet 01 Question 1 - Unit Conversions|E5_2025_SH_01_Q1]]
+
+[[E5 2025 Sheet 03 Question 2 - Radiocarbon Dating|E5_2025_SH_03_Q2]]
+
+[[E5 2025 Sheet 01 Question 4 - Rutherford Scattering|E5_2025_SH_01_Q4]]
+
+[[E5 2025 Sheet 05 Question 4 - Determining Nuclear Radii|E5_2025_SH_05_Q4]]
+
+[[E5 2025 Sheet 01 Question 2 - Centre of Mass|E5_2025_SH_01_Q2]]
+
+[[E5 2025 Sheet 06 Question 3 - Deep Inelastic Scattering at HERA|E5_2025_SH_06_Q3]]
+
+[[E5 2025 Sheet 04 Question 2 - Energy Loss of Cosmic Muons|E5_2025_SH_04_Q2]]
+
+[[E5 2025 Sheet 05 Question 2 - Particle Identification|E5_2025_SH_05_Q2]]
+
+[[E5 2025 Sheet 05 Question 1 - Let's Craft a Collider Detector!|E5_2025_SH_05_Q1]]
+
+[[E5 2025 Sheet 04 Question 4 - Particle Identification|E5_2025_SH_04_Q4]]
+
+[[E5 2025 Sheet 03 Question 3 - β-decay of Tritium|E5_2025_SH_03_Q3]]
+
+[[E5 2025 Sheet 04 Question 1 - Nuclear Energy Generation|E5_2025_SH_04_Q1]]
+
+[[E5 2025 Sheet 06 Question 1 - Form Factor|E5_2025_SH_06_Q1]]
+
+[[E5 2025 Sheet 02 Question 3 - Bethe-Weizsäcker Formula|E5_2025_SH_02_Q3]]
+
+[[E5 2025 Sheet 05 Question 3 - Storage Rings at CERN|E5_2025_SH_05_Q3]]
+
+[[E5 2025 Sheet 03 Question 1 - Radioactive Decay|E5_2025_SH_03_Q1]]
+
+[[E5 2025 Sheet 06 Question 2 - Kinematics of Scattering|E5_2025_SH_06_Q2]]
+
+[[E5 2025 Sheet 03 Question 4 - Solar Neutrinos|E5_2025_SH_03_Q4]]
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+
+
+
+# Combined E5 & E6
+
+
+
+#  A  B  A  C | A | B  A  B  A
+
+
+
+# A
+
+[[E5 2025 Sheet 06 Question 3 - Deep Inelastic Scattering at HERA|E5_2025_SH_06_Q3]]
+
+[[E5 2025 Sheet 04 Question 1 - Nuclear Energy Generation|E5_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 06 Question 2 - Thermal Conductivity|E6_2025_SH_06_Q2]]
+
+[[E6 2025 Sheet 04 Question 3 - Schottky Defects|E6_2025_SH_04_Q3]]
+
+[[E5 2025 Sheet 03 Question 3 - β-decay of Tritium|E5_2025_SH_03_Q3]]
+
+[[E6 2025 Sheet 06 Question 3 - Raman Spectroscopy|E6_2025_SH_06_Q3]]
+
+[[E6 2025 Sheet 08 Question 4 - Fermi-Dirac Statistics|E6_2025_SH_08_Q4]]
+
+[[E5 2025 Sheet 03 Question 4 - Solar Neutrinos|E5_2025_SH_03_Q4]]
+
+[[E5 2025 Sheet 04 Question 4 - Particle Identification|E5_2025_SH_04_Q4]]
+
+[[E6 2025 Sheet 09 Question 3 - Hall Sensor|E6_2025_SH_09_Q3]]
+
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
+
+[[E6 2025 Sheet 07 Question 3 - Phonons in Debye Model|E6_2025_SH_07_Q3]]
+
+[[E5 2025 Sheet 06 Question 1 - Form Factor|E5_2025_SH_06_Q1]]
+
+[[E5 2025 Sheet 05 Question 1 - Let's Craft a Collider Detector!|E5_2025_SH_05_Q1]]
+
+[[E6 2025 Sheet 09 Question 2 - Conductivity's Temperature Dependence|E6_2025_SH_09_Q2]]
+
+[[E5 2025 Sheet 01 Question 3 - Cross Section and Luminosity|E5_2025_SH_01_Q3]]
+
+[[E5 2025 Sheet 05 Question 2 - Particle Identification|E5_2025_SH_05_Q2]]
+
+[[E5 2025 Sheet 05 Question 3 - Storage Rings at CERN|E5_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 09 Question 1 - Transport and Conductivity|E6_2025_SH_09_Q1]]
+
+
+
+
+# B
+
+[[E6 2025 Sheet 10 Question 2 - Quasi-free Electron Gas|E6_2025_SH_10_Q2]]
+
+[[E6 2025 Sheet 08 Question 1 - Scattering on Fermi Surface|E6_2025_SH_08_Q1]]
+
+[[E5 2025 Sheet 01 Question 4 - Rutherford Scattering|E5_2025_SH_01_Q4]]
+
+[[E6 2025 Sheet 02 Question 3 - Polymorphism|E6_2025_SH_02_Q3]]
+
+[[E5 2025 Sheet 03 Question 1 - Radioactive Decay|E5_2025_SH_03_Q1]]
+
+[[E5 2025 Sheet 03 Question 2 - Radiocarbon Dating|E5_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 05 Question 2 - Dispersion KBr|E6_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 02 Question 4 - Metal Properties|E6_2025_SH_02_Q4]]
+
+[[E5 2025 Sheet 02 Question 1 - Basics of Special Relativity|E5_2025_SH_02_Q1]]
+
+[[E6 2025 Sheet 06 Question 1 - Debye vs Einstein Model|E6_2025_SH_06_Q1]]
+
+[[E6 2025 Sheet 10 Question 1 - Effective Mass, Energy Bands|E6_2025_SH_10_Q1]]
+
+[[E6 2025 Sheet 10 Question 3 - Fermi Energy, Occupation|E6_2025_SH_10_Q3]]
+
+
+
+
+# C
+
+[[E5 2025 Sheet 02 Question 3 - Bethe-Weizsäcker Formula|E5_2025_SH_02_Q3]]
+
+[[E6 2025 Sheet 03 Question 1 - Miller Indices|E6_2025_SH_03_Q1]]
+
+[[E6 2025 Sheet 04 Question 1 - Bragg Diffraction|E6_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 03 Question 4 - Origin Shift|E6_2025_SH_03_Q4]]
+
+[[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+[[E6 2025 Sheet 02 Question 1 - Crystal Structures|E6_2025_SH_02_Q1]]
+
+[[E6 2025 Sheet 05 Question 3 - Phonon Density of States|E6_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 03 Question 2 - Lattice Planes|E6_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 07 Question 2 - Lattice and Miller|E6_2025_SH_07_Q2]]
+
+[[E6 2025 Sheet 03 Question 3 - Reciprocal Lattice|E6_2025_SH_03_Q3]]
+
+
+
+
+
+
+Unsorted Tokens
+
+[[E6 2025 Sheet 10 Question 2 - Quasi-free Electron Gas|E6_2025_SH_10_Q2]]
+
+[[E6 2025 Sheet 08 Question 1 - Scattering on Fermi Surface|E6_2025_SH_08_Q1]]
+
+[[E5 2025 Sheet 01 Question 4 - Rutherford Scattering|E5_2025_SH_01_Q4]]
+
+[[E5 2025 Sheet 02 Question 3 - Bethe-Weizsäcker Formula|E5_2025_SH_02_Q3]]
+
+[[E5 2025 Sheet 06 Question 3 - Deep Inelastic Scattering at HERA|E5_2025_SH_06_Q3]]
+
+[[E5 2025 Sheet 04 Question 1 - Nuclear Energy Generation|E5_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 06 Question 2 - Thermal Conductivity|E6_2025_SH_06_Q2]]
+
+[[E6 2025 Sheet 04 Question 3 - Schottky Defects|E6_2025_SH_04_Q3]]
+
+[[E5 2025 Sheet 03 Question 3 - β-decay of Tritium|E5_2025_SH_03_Q3]]
+
+[[E6 2025 Sheet 06 Question 3 - Raman Spectroscopy|E6_2025_SH_06_Q3]]
+
+[[E6 2025 Sheet 03 Question 1 - Miller Indices|E6_2025_SH_03_Q1]]
+
+[[E6 2025 Sheet 04 Question 1 - Bragg Diffraction|E6_2025_SH_04_Q1]]
+
+[[E6 2025 Sheet 03 Question 4 - Origin Shift|E6_2025_SH_03_Q4]]
+
+[[E6 2025 Sheet 08 Question 4 - Fermi-Dirac Statistics|E6_2025_SH_08_Q4]]
+
+[[E5 2025 Sheet 03 Question 4 - Solar Neutrinos|E5_2025_SH_03_Q4]]
+
+[[E5 2025 Sheet 04 Question 4 - Particle Identification|E5_2025_SH_04_Q4]]
+
+[[E6 2025 Sheet 02 Question 3 - Polymorphism|E6_2025_SH_02_Q3]]
+
+[[E5 2025 Sheet 03 Question 1 - Radioactive Decay|E5_2025_SH_03_Q1]]
+
+[[E5 2025 Sheet 03 Question 2 - Radiocarbon Dating|E5_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 05 Question 4 - Phonon Branches BaTiO3|E6_2025_SH_05_Q4]]
+
+[[E6 2025 Sheet 09 Question 3 - Hall Sensor|E6_2025_SH_09_Q3]]
+
+[[E5 2025 Sheet 04 Question 3 - Solar Neutrinos II|E5_2025_SH_04_Q3]]
+
+[[E6 2025 Sheet 07 Question 3 - Phonons in Debye Model|E6_2025_SH_07_Q3]]
+
+[[E5 2025 Sheet 06 Question 1 - Form Factor|E5_2025_SH_06_Q1]]
+
+[[E6 2025 Sheet 05 Question 2 - Dispersion KBr|E6_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 02 Question 1 - Crystal Structures|E6_2025_SH_02_Q1]]
+
+[[E5 2025 Sheet 05 Question 1 - Let's Craft a Collider Detector!|E5_2025_SH_05_Q1]]
+
+[[E6 2025 Sheet 02 Question 4 - Metal Properties|E6_2025_SH_02_Q4]]
+
+[[E6 2025 Sheet 09 Question 2 - Conductivity's Temperature Dependence|E6_2025_SH_09_Q2]]
+
+[[E5 2025 Sheet 01 Question 3 - Cross Section and Luminosity|E5_2025_SH_01_Q3]]
+
+[[E5 2025 Sheet 02 Question 1 - Basics of Special Relativity|E5_2025_SH_02_Q1]]
+
+[[E6 2025 Sheet 05 Question 3 - Phonon Density of States|E6_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 06 Question 1 - Debye vs Einstein Model|E6_2025_SH_06_Q1]]
+
+[[E5 2025 Sheet 05 Question 2 - Particle Identification|E5_2025_SH_05_Q2]]
+
+[[E6 2025 Sheet 10 Question 1 - Effective Mass, Energy Bands|E6_2025_SH_10_Q1]]
+
+[[E5 2025 Sheet 05 Question 3 - Storage Rings at CERN|E5_2025_SH_05_Q3]]
+
+[[E6 2025 Sheet 09 Question 1 - Transport and Conductivity|E6_2025_SH_09_Q1]]
+
+[[E6 2025 Sheet 03 Question 2 - Lattice Planes|E6_2025_SH_03_Q2]]
+
+[[E6 2025 Sheet 07 Question 2 - Lattice and Miller|E6_2025_SH_07_Q2]]
+
+[[E6 2025 Sheet 03 Question 3 - Reciprocal Lattice|E6_2025_SH_03_Q3]]
+
+[[E6 2025 Sheet 10 Question 3 - Fermi Energy, Occupation|E6_2025_SH_10_Q3]]
+
+
+
+[[E5 2025 Sheet 01 Question 1 - Unit Conversions|E5_2025_SH_01_Q1]]
+
+[[E6 2025 Sheet 08 Question 2 - Electron Density|E6_2025_SH_08_Q2]]
+
+[[E6 2025 Sheet 08 Question 3 - Fermi Energy|E6_2025_SH_08_Q3]]
+
+[[E6 2025 Sheet 07 Question 1 - Umklapp Scattering|E6_2025_SH_07_Q1]]
+
+[[E5 2025 Sheet 01 Question 2 - Centre of Mass|E5_2025_SH_01_Q2]]
+
+[[E6 2025 Sheet 02 Question 2 - Sphere Packing|E6_2025_SH_02_Q2]]
+
+[[E6 2025 Sheet 05 Question 1 - Phonons|E6_2025_SH_05_Q1]]
+
+[[E5 2025 Sheet 04 Question 2 - Energy Loss of Cosmic Muons|E5_2025_SH_04_Q2]]
+
+[[E5 2025 Sheet 06 Question 2 - Kinematics of Scattering|E5_2025_SH_06_Q2]]
+
+[[E6 2025 Sheet 04 Question 2 - Diffractogram|E6_2025_SH_04_Q2]]
+
+[[E5 2025 Sheet 05 Question 4 - Determining Nuclear Radii|E5_2025_SH_05_Q4]]
+
+[[E5 2025 Sheet 02 Question 2 - Rutherford Scattering|E5_2025_SH_02_Q2]]
+
+
 
 
 
