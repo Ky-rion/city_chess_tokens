@@ -8,7 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f981ea264f81fffd",
+            "id": "cd1e717c989c02f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E6 2019 Retake Question 4 - Semiconductors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E6 2019 Retake Question 4 - Semiconductors"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ed147bf4745440a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d1003d0f51febc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,87 +36,23 @@
                 "file": "Current Active Tokens.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Current Active Tokens"
             }
           },
           {
-            "id": "5e79b31de6161133",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "696093db8e7a20a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5da097bcc32526af",
+            "id": "ad8eea55503577a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5 2025 Sheet 01 Question 1 - Unit Conversions.md",
+                "file": "E5 Formula Collection.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "121678f35ac1f0cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46df7ca967068fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part a Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "563ec9b08d482bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part b Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6fb0c58d3f1537b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part c Solution PRO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "726b14eff3a07328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einstein Triangle.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "E5 Formula Collection"
             }
           }
         ]
@@ -118,8 +74,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -134,7 +93,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -142,7 +103,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "0c84b8a0ddc3c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -166,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part a Solution.md",
+                "file": "E6 2019 Retake Question 4 - Semiconductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +147,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for E6 2019 Retake Question 4 - Semiconductors"
             }
           },
           {
@@ -183,10 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part a Solution.md",
+                "file": "E6 2019 Retake Question 4 - Semiconductors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from E6 2019 Retake Question 4 - Semiconductors"
             }
           },
           {
@@ -196,8 +173,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -206,8 +187,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E5 2025 Sheet 01 Question 1 Part a Solution.md"
-              }
+                "file": "E6 2019 Retake Question 4 - Semiconductors.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of E6 2019 Retake Question 4 - Semiconductors"
+            }
+          },
+          {
+            "id": "a04ab1512df28409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -217,17 +217,64 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46df7ca967068fcf",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cd1e717c989c02f9",
   "lastOpenFiles": [
-    "E5 2025 Sheet 01 Question 1 Part c Solution PRO.md",
-    "Einstein Triangle.md",
-    "E5 2025 Sheet 01 Question 1 - Unit Conversions.md",
-    "E5 2025 Sheet 01 Question 1 Part b Solution.md",
-    "E5 2025 Sheet 01 Question 1 Part a Solution.md",
+    "Attachments/Pasted image 20260204235338.png",
+    "Attachments/Pasted image 20260204235321.png",
+    "Attachments/Pasted image 20260204235307.png",
+    "E6 2019-2020 Retake Exam.md",
+    "E6 2019 Retake Question 4 - Semiconductors.md",
+    "E6 2019 Retake Question 3 - Raman Scattering.md",
+    "E6 2019 Retake Question 2 - Fermi Surface.md",
+    "Attachments/Pasted image 20260204234830.png",
+    "Attachments/Pasted image 20260204234816.png",
+    "Attachments/Pasted image 20260204234806.png",
+    "Attachments/Pasted image 20260204234753.png",
+    "E6 2019 Retake Question 1 - Crystal Structures.md",
+    "Attachments/Pasted image 20260204234404.png",
+    "Attachments/Pasted image 20260204234351.png",
+    "Attachments/Pasted image 20260204234342.png",
+    "Attachments/Pasted image 20260204234329.png",
+    "E6 Past Exams.md",
+    "E6.md",
+    "S5.md",
+    "000 Central.md",
+    "E5 Lecture Tokens.md",
+    "E5 2025 Lecture 12 Overview.md",
+    "E5 2025 Lecture 6 Overview.md",
+    "E5 2025 Lecture 11 Overview.md",
+    "E5 2025 Lecture 10 Overview.md",
+    "E5 2025 Lecture 9 Overview.md",
+    "E5 2025 Lecture 8 Overview.md",
+    "E5 2025 Lecture 7 Overview.md",
+    "E5 2025 Lecture 5 Overview.md",
+    "E5 2025 Lecture 4 Overview.md",
+    "E5 2025 Lecture 3 Overview.md",
+    "E5.md",
+    "E5 2025 Lecture 2 Overview.md",
+    "E5 2025 Lecture 1 Overview.md",
     "Current Active Tokens.md",
-    "E6_2025_SH_10_Q3 Concluding Summary.md",
-    "E6 2025 Sheet 10 Question 3 - Fermi Energy, Occupation.md",
-    "E6 2025 Sheet 10 Question 3 Part b Solution.md",
-    "E6 2025 Sheet 10 Question 3 Part a Solution.md"
+    "Attachments/14 ElektroschwacheWechselwirkung.pdf",
+    "Attachments/13 SchwacheWechselwirkung.pdf",
+    "Attachments/12 Symmetrien.pdf",
+    "Attachments/11 Hadronen.pdf",
+    "Attachments/10 TiefinelastischeStreuung.pdf",
+    "Attachments/09 Elektronenstreuung.pdf",
+    "Attachments/08 Beschleuniger.pdf",
+    "Attachments/07 Detektoren.pdf",
+    "Attachments/06 MaterieWechselwirkung.pdf",
+    "Attachments/05 Stabilitaet.pdf",
+    "E5 Formula Collection.md"
   ]
 }
