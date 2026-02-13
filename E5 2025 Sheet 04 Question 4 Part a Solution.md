@@ -1,5 +1,7 @@
 
 
+![[Pasted image 20260212115754.png]]
+
 Hello there! Welcome to your first day of "virtual" particle physics class. I'm delighted to be your professor today.
 
 Particle physics is a bit like being a detective. You never actually _see_ the particles; you only see the footprints they leave behind in our detectors. We have to look at those footprints (tracks, lights, signals) and deduce who walked through the room.

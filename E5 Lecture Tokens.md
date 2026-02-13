@@ -9,6 +9,8 @@
 
 ## [[E5 2025 Lecture 1 Overview]]
 
+## [[E5 2025 Lecture 1 - A note on s]]
+
 
 # Lecture 2: Nuclear Properties
 ![[04 Kerneigenschaften.pdf]]
