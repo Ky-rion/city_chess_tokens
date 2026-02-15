@@ -35,6 +35,8 @@ Luminosity 1.9
 ![[Pasted image 20260131205234.png]]
 ![[Pasted image 20260131205307.png]]
 
+## [[E5 2025 Lecture 1 Formula Overview]]
+
 
 
 # 2 - Nucleus Properties
@@ -43,6 +45,8 @@ Luminosity 1.9
 ![[Pasted image 20260131205605.png]]
 ![[Pasted image 20260131205622.png]]
 ![[Pasted image 20260131205638.png]]
+
+## [[E5 2025 Lecture 2 Formula Overview]]
 
 
 
@@ -69,6 +73,8 @@ Luminosity 1.9
 ![[Pasted image 20260131210605.png]]
 ![[Pasted image 20260131210620.png]]
 
+## [[E5 2025 Lecture 3 Formula Overview]]
+
 
 # 4 - Particle-Matter Interaction
 
@@ -81,6 +87,8 @@ Luminosity 1.9
 ![[Pasted image 20260131210902.png]]
 ![[Pasted image 20260131210925.png]]
 
+## [[E5 2025 Lecture 4 Formula Overview]]
+
 
 # 5 - Detectors
 
@@ -92,6 +100,8 @@ Luminosity 1.9
 ![[Pasted image 20260131233343.png]]
 ![[Pasted image 20260131233354.png]]
 
+## [[E5 2025 Lecture 5 Formula Overview]]
+
 
 
 # 6 - Accelerators
@@ -100,6 +110,8 @@ Luminosity 1.9
 ![[Pasted image 20260131233452.png]]
 ![[Pasted image 20260131233523.png]]
 ![[Pasted image 20260131233538.png]]
+
+## [[E5 2025 Lecture 6 Formula Overview]]
 
 
 # 7 - Electron-Nucleus Scattering
@@ -123,6 +135,8 @@ Luminosity 1.9
 ![[Pasted image 20260131234122.png]]
 ![[Pasted image 20260131234136.png]]
 
+## [[E5 2025 Lecture 7 Formula Overview]]
+
 
 # 8 - Deep Inelastic Scattering
 
@@ -132,11 +146,15 @@ Luminosity 1.9
 ![[Pasted image 20260131234255.png]]
 ![[Pasted image 20260131234313.png]]
 
+## [[E5 2025 Lecture 8 Formula Overview]]
+
 
 # 9 - Quark Structure of Hadrons
 
 ![[Pasted image 20260131234543.png]]
 ![[Pasted image 20260131234558.png]]
+
+## [[E5 2025 Lecture 9 Formula Overview]]
 
 
 # 10 - Symmetry and Conservation
@@ -144,11 +162,15 @@ Luminosity 1.9
 ![[Pasted image 20260131234623.png]]
 ![[Pasted image 20260131234644.png]]
 
+## [[E5 2025 Lecture 10 Formula Overview]]
+
 
 # 11 - Weak Interaction
 
 ![[Pasted image 20260131234709.png]]
 ![[Pasted image 20260131234722.png]]
+
+## [[E5 2025 Lecture 11 Formula Overview]]
 
 
 # 12 - Electroweak Interaction
@@ -157,6 +179,10 @@ Luminosity 1.9
 ![[Pasted image 20260131234951.png]]
 ![[Pasted image 20260131235001.png]]
 ![[Pasted image 20260131235019.png]]
+
+## [[E5 2025 Lecture 12 Formula Overview]]
+
+
 
 
 
