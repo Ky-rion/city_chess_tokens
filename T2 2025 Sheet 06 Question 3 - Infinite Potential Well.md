@@ -1,0 +1,41 @@
+
+
+# 3 a
+![[Pasted image 20260225153936.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part a Solution]]
+
+
+# 3 b
+![[Pasted image 20260225153945.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part b Solution]]
+
+
+# 3 c
+![[Pasted image 20260225153953.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part c Solution]]
+
+
+# 3 d
+![[Pasted image 20260225154001.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part d Solution]]
+
+
+# 3 e
+![[Pasted image 20260225154009.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part e Solution]]
+
+
+# 3 f
+![[Pasted image 20260225154020.png]]
+
+## [[T2 2025 Sheet 06 Question 3 Part f Solution]]
+
+
+## [[T2_2025_SH_06_Q3 Concluding Summary]]
+
+

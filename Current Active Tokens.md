@@ -1600,6 +1600,426 @@ Unsorted Tokens
 
 
 
+---
+---
+---
+
+# T2 Corner
+
+
+Alright, it's time to also bring the exams into here
+I can organise the space later, first computer everything
+
+
+Hello, let's do some quantum mechanics! You are my theoretical physics professor and I am the curious student who has never seen the material before. Please explain the answer to this question. Answer always in English and in lots of good detail. Thank you!
+
+
+Here is the next part of the question, please also answer this one in lots of good detail. 
+Thank you!
+
+
+Thank you for the explanation! Could you make a little summary of important formulas and concepts from this question, something that I could write on a cheat sheet in case this comes up in an exam? Thank you!
+
+
+
+---
+## T2 Sheets
+
+
+# A
+
+
+[[T2 2025 Sheet 07 Question 2 - (S) Qualitative Analysis of Potentials|T2_2025_SH_07_Q2]]
+
+[[T2 2025 Sheet 09 Question 1 - (S) Tensor Product|T2_2025_SH_09_Q1]]
+
+[[T2 2025 Sheet 01 Question 1 - Double Slit Experiment|T2_2025_SH_01_Q1]]
+
+[[T2 2025 Sheet 04 Question 2 - Eigenfunctions|T2_2025_SH_04_Q2]]
+
+[[T2 2025 Sheet 08 Question 4 - (S) HarmOsci, Ladder Operators|T2_2025_SH_08_Q4]]
+
+[[T2 2025 Sheet 02 Question 1 - Functions of Matrices|T2_2025_SH_02_Q1]]
+
+[[T2 2025 Sheet 08 Question 1 - Ehrenfest Theorem|T2_2025_SH_08_Q1]]
+
+[[T2 2025 Sheet 03 Question 2 - Legendre Polynomials|T2_2025_SH_03_Q2]]
+
+[[T2 2025 Sheet 04 Question 4 - Diagonalizing Commuting Operators|T2_2025_SH_04_Q4]]
+
+[[T2 2025 Sheet 13 Question 2 - (S) Spin Addition|T2_2025_SH_13_Q2]]
+
+[[T2 2025 Sheet 03 Question 5 - Matrix Representation of Linear Operators|T2_2025_SH_03_Q5]]
+
+[[T2 2025 Sheet 06 Question 4 - (S) Particle on a Circle|T2_2025_SH_06_Q4]]
+
+[[T2 2025 Sheet 10 Question 3 - (S) Spherical Harmonics|T2_2025_SH_10_Q3]]
+
+[[T2 2025 Sheet 01 Question 3 - Integrals|T2_2025_SH_01_Q3]]
+
+[[T2 2025 Sheet 12 Question 2 - Fine Structure Hydrogen|T2_2025_SH_12_Q2]]
+
+[[T2 2025 Sheet 13 Question 4 - (S) Spin-1half Time Evolution|T2_2025_SH_13_Q4]]
+
+[[T2 2025 Sheet 02 Question 3 - Interference|T2_2025_SH_02_Q3]]
+
+[[T2 2025 Sheet 07 Question 4 - (S) Zeros of Bound Eigenstates|T2_2025_SH_07_Q4]]
+
+[[T2 2025 Sheet 09 Question 4 - 2D Harmonic Oscillator|T2_2025_SH_09_Q4]]
+
+[[T2 2025 Sheet 05 Question 1 - The Hamiltonian is Hermitian|T2_2025_SH_05_Q1]]
+
+[[T2 2025 Sheet 04 Question 1 - Hermitian Operators II|T2_2025_SH_04_Q1]]
+
+[[T2 2025 Sheet 11 Question 2 - Quantum Laplace-Runge-Lenz Vector|T2_2025_SH_11_Q2]]
+
+[[T2 2025 Sheet 03 Question 4 - Projection Operator|T2_2025_SH_03_Q4]]
+
+[[T2 2025 Sheet 09 Question 2 - (S) Entanglement|T2_2025_SH_09_Q2]]
+
+[[T2 2025 Sheet 02 Question 2 - Diagonalisation|T2_2025_SH_02_Q2]]
+
+[[T2 2025 Sheet 06 Question 2 - FinPotPot Bound States|T2_2025_SH_06_Q2]]
+
+[[T2 2025 Sheet 14 Question 4 - Photoionisation, Fermi's Golden Rule|T2_2025_SH_14_Q4]]
+
+[[T2 2025 Sheet 08 Question 2 - Hermite Polynomials|T2_2025_SH_08_Q2]]
+
+[[T2 2025 Sheet 11 Question 1 - Angular Momentum Algebra|T2_2025_SH_11_Q1]]
+
+[[T2 2025 Sheet 10 Question 2 - Muonic Hydrogen|T2_2025_SH_10_Q2]]
+
+[[T2 2025 Sheet 12 Question 3 - (S) Electric Dipole Transitions|T2_2025_SH_12_Q3]]
+
+[[T2 2025 Sheet 10 Question 1 - Laguerre Polynomials|T2_2025_SH_10_Q1]]
+
+[[T2 2025 Sheet 07 Question 1 - Variation Calculation FinPotPot|T2_2025_SH_07_Q1]]
+
+[[T2 2025 Sheet 05 Question 3 - Free Particle|T2_2025_SH_05_Q3]]
+
+[[T2 2025 Sheet 03 Question 3 - Hermitian Operators|T2_2025_SH_03_Q3]]
+
+[[T2 2025 Sheet 13 Question 1 - Separability of Position and Spin|T2_2025_SH_13_Q1]]
+
+[[T2 2025 Sheet 03 Question 1 - Commutator|T2_2025_SH_03_Q1]]
+
+[[T2 2025 Sheet 05 Question 4 - Parity Operator|T2_2025_SH_05_Q4]]
+
+[[T2 2025 Sheet 04 Question 3 - Projectors and Bra-Ket|T2_2025_SH_04_Q3]]
+
+[[T2 2025 Sheet 14 Question 3 - Matrix Element for States of Differing Symmetry|T2_2025_SH_14_Q3]]
+
+[[T2 2025 Sheet 06 Question 3 - Infinite Potential Well|T2_2025_SH_06_Q3]]
+
+[[T2 2025 Sheet 08 Question 3 - (S) Harmonic Oscillator Eigenfunctions|T2_2025_SH_08_Q3]]
+
+[[T2 2025 Sheet 12 Question 1 - (S) Perturbation Hydrogen|T2_2025_SH_12_Q1]]
+
+[[T2 2025 Sheet 01 Question 4 - Classical Probability Distribution|T2_2025_SH_01_Q4]]
+
+[[T2 2025 Sheet 02 Question 4 - Liouville's Theorem|T2_2025_SH_02_Q4]]
+
+[[T2 2025 Sheet 13 Question 3 - Ortho- and Parahelium|T2_2025_SH_13_Q3]]
+
+[[T2 2025 Sheet 06 Question 1 - (S) Parity|T2_2025_SH_06_Q1]]
+
+[[T2 2025 Sheet 14 Question 1 - (S) Spin-Orbit Coupling|T2_2025_SH_14_Q1]]
+
+[[T2 2025 Sheet 10 Question 4 - (S) Visualizing Hydrogen|T2_2025_SH_10_Q4]]
+
+[[T2 2025 Sheet 14 Question 2 - (S) Yukawa Potential Scattering|T2_2025_SH_14_Q2]]
+
+[[T2 2025 Sheet 05 Question 2 - Differentiable Wavefunctions|T2_2025_SH_05_Q2]]
+
+[[T2 2025 Sheet 01 Question 2 - Fourier Transform|T2_2025_SH_01_Q2]]
+
+[[T2 2025 Sheet 07 Question 3 - Virial Theorem|T2_2025_SH_07_Q3]]
+
+[[T2 2025 Sheet 09 Question 3 - Approximation via Harmonic Potentials|T2_2025_SH_09_Q3]]
+
+
+# B
+
+
+# C
+
+
+
+
+
+
+
+Randomised
+
+[[T2 2025 Sheet 07 Question 2 - (S) Qualitative Analysis of Potentials|T2_2025_SH_07_Q2]]
+
+[[T2 2025 Sheet 09 Question 1 - (S) Tensor Product|T2_2025_SH_09_Q1]]
+
+[[T2 2025 Sheet 01 Question 1 - Double Slit Experiment|T2_2025_SH_01_Q1]]
+
+[[T2 2025 Sheet 04 Question 2 - Eigenfunctions|T2_2025_SH_04_Q2]]
+
+[[T2 2025 Sheet 08 Question 4 - (S) HarmOsci, Ladder Operators|T2_2025_SH_08_Q4]]
+
+[[T2 2025 Sheet 02 Question 1 - Functions of Matrices|T2_2025_SH_02_Q1]]
+
+[[T2 2025 Sheet 08 Question 1 - Ehrenfest Theorem|T2_2025_SH_08_Q1]]
+
+[[T2 2025 Sheet 03 Question 2 - Legendre Polynomials|T2_2025_SH_03_Q2]]
+
+[[T2 2025 Sheet 04 Question 4 - Diagonalizing Commuting Operators|T2_2025_SH_04_Q4]]
+
+[[T2 2025 Sheet 13 Question 2 - (S) Spin Addition|T2_2025_SH_13_Q2]]
+
+[[T2 2025 Sheet 03 Question 5 - Matrix Representation of Linear Operators|T2_2025_SH_03_Q5]]
+
+[[T2 2025 Sheet 06 Question 4 - (S) Particle on a Circle|T2_2025_SH_06_Q4]]
+
+[[T2 2025 Sheet 10 Question 3 - (S) Spherical Harmonics|T2_2025_SH_10_Q3]]
+
+[[T2 2025 Sheet 01 Question 3 - Integrals|T2_2025_SH_01_Q3]]
+
+[[T2 2025 Sheet 12 Question 2 - Fine Structure Hydrogen|T2_2025_SH_12_Q2]]
+
+[[T2 2025 Sheet 13 Question 4 - (S) Spin-1half Time Evolution|T2_2025_SH_13_Q4]]
+
+[[T2 2025 Sheet 02 Question 3 - Interference|T2_2025_SH_02_Q3]]
+
+[[T2 2025 Sheet 07 Question 4 - (S) Zeros of Bound Eigenstates|T2_2025_SH_07_Q4]]
+
+[[T2 2025 Sheet 09 Question 4 - 2D Harmonic Oscillator|T2_2025_SH_09_Q4]]
+
+[[T2 2025 Sheet 05 Question 1 - The Hamiltonian is Hermitian|T2_2025_SH_05_Q1]]
+
+[[T2 2025 Sheet 04 Question 1 - Hermitian Operators II|T2_2025_SH_04_Q1]]
+
+[[T2 2025 Sheet 11 Question 2 - Quantum Laplace-Runge-Lenz Vector|T2_2025_SH_11_Q2]]
+
+[[T2 2025 Sheet 03 Question 4 - Projection Operator|T2_2025_SH_03_Q4]]
+
+[[T2 2025 Sheet 09 Question 2 - (S) Entanglement|T2_2025_SH_09_Q2]]
+
+[[T2 2025 Sheet 02 Question 2 - Diagonalisation|T2_2025_SH_02_Q2]]
+
+[[T2 2025 Sheet 06 Question 2 - FinPotPot Bound States|T2_2025_SH_06_Q2]]
+
+[[T2 2025 Sheet 14 Question 4 - Photoionisation, Fermi's Golden Rule|T2_2025_SH_14_Q4]]
+
+[[T2 2025 Sheet 08 Question 2 - Hermite Polynomials|T2_2025_SH_08_Q2]]
+
+[[T2 2025 Sheet 11 Question 1 - Angular Momentum Algebra|T2_2025_SH_11_Q1]]
+
+[[T2 2025 Sheet 10 Question 2 - Muonic Hydrogen|T2_2025_SH_10_Q2]]
+
+[[T2 2025 Sheet 12 Question 3 - (S) Electric Dipole Transitions|T2_2025_SH_12_Q3]]
+
+[[T2 2025 Sheet 10 Question 1 - Laguerre Polynomials|T2_2025_SH_10_Q1]]
+
+[[T2 2025 Sheet 07 Question 1 - Variation Calculation FinPotPot|T2_2025_SH_07_Q1]]
+
+[[T2 2025 Sheet 05 Question 3 - Free Particle|T2_2025_SH_05_Q3]]
+
+[[T2 2025 Sheet 03 Question 3 - Hermitian Operators|T2_2025_SH_03_Q3]]
+
+[[T2 2025 Sheet 13 Question 1 - Separability of Position and Spin|T2_2025_SH_13_Q1]]
+
+[[T2 2025 Sheet 03 Question 1 - Commutator|T2_2025_SH_03_Q1]]
+
+[[T2 2025 Sheet 05 Question 4 - Parity Operator|T2_2025_SH_05_Q4]]
+
+[[T2 2025 Sheet 04 Question 3 - Projectors and Bra-Ket|T2_2025_SH_04_Q3]]
+
+[[T2 2025 Sheet 14 Question 3 - Matrix Element for States of Differing Symmetry|T2_2025_SH_14_Q3]]
+
+[[T2 2025 Sheet 06 Question 3 - Infinite Potential Well|T2_2025_SH_06_Q3]]
+
+[[T2 2025 Sheet 08 Question 3 - (S) Harmonic Oscillator Eigenfunctions|T2_2025_SH_08_Q3]]
+
+[[T2 2025 Sheet 12 Question 1 - (S) Perturbation Hydrogen|T2_2025_SH_12_Q1]]
+
+[[T2 2025 Sheet 01 Question 4 - Classical Probability Distribution|T2_2025_SH_01_Q4]]
+
+[[T2 2025 Sheet 02 Question 4 - Liouville's Theorem|T2_2025_SH_02_Q4]]
+
+[[T2 2025 Sheet 13 Question 3 - Ortho- and Parahelium|T2_2025_SH_13_Q3]]
+
+[[T2 2025 Sheet 06 Question 1 - (S) Parity|T2_2025_SH_06_Q1]]
+
+[[T2 2025 Sheet 14 Question 1 - (S) Spin-Orbit Coupling|T2_2025_SH_14_Q1]]
+
+[[T2 2025 Sheet 10 Question 4 - (S) Visualizing Hydrogen|T2_2025_SH_10_Q4]]
+
+[[T2 2025 Sheet 14 Question 2 - (S) Yukawa Potential Scattering|T2_2025_SH_14_Q2]]
+
+[[T2 2025 Sheet 05 Question 2 - Differentiable Wavefunctions|T2_2025_SH_05_Q2]]
+
+[[T2 2025 Sheet 01 Question 2 - Fourier Transform|T2_2025_SH_01_Q2]]
+
+[[T2 2025 Sheet 07 Question 3 - Virial Theorem|T2_2025_SH_07_Q3]]
+
+[[T2 2025 Sheet 09 Question 3 - Approximation via Harmonic Potentials|T2_2025_SH_09_Q3]]
+
+
+
+
+
+
+
+Ordered
+
+[[T2 2025 Sheet 01 Question 1 - Double Slit Experiment|T2_2025_SH_01_Q1]]
+
+[[T2 2025 Sheet 01 Question 2 - Fourier Transform|T2_2025_SH_01_Q2]]
+
+[[T2 2025 Sheet 01 Question 3 - Integrals|T2_2025_SH_01_Q3]]
+
+[[T2 2025 Sheet 01 Question 4 - Classical Probability Distribution|T2_2025_SH_01_Q4]]
+
+
+[[T2 2025 Sheet 02 Question 1 - Functions of Matrices|T2_2025_SH_02_Q1]]
+
+[[T2 2025 Sheet 02 Question 2 - Diagonalisation|T2_2025_SH_02_Q2]]
+
+[[T2 2025 Sheet 02 Question 3 - Interference|T2_2025_SH_02_Q3]]
+
+[[T2 2025 Sheet 02 Question 4 - Liouville's Theorem|T2_2025_SH_02_Q4]]
+
+
+[[T2 2025 Sheet 03 Question 1 - Commutator|T2_2025_SH_03_Q1]]
+
+[[T2 2025 Sheet 03 Question 2 - Legendre Polynomials|T2_2025_SH_03_Q2]]
+
+[[T2 2025 Sheet 03 Question 3 - Hermitian Operators|T2_2025_SH_03_Q3]]
+
+[[T2 2025 Sheet 03 Question 4 - Projection Operator|T2_2025_SH_03_Q4]]
+
+[[T2 2025 Sheet 03 Question 5 - Matrix Representation of Linear Operators|T2_2025_SH_03_Q5]]
+
+
+[[T2 2025 Sheet 04 Question 1 - Hermitian Operators II|T2_2025_SH_04_Q1]]
+
+[[T2 2025 Sheet 04 Question 2 - Eigenfunctions|T2_2025_SH_04_Q2]]
+
+[[T2 2025 Sheet 04 Question 3 - Projectors and Bra-Ket|T2_2025_SH_04_Q3]]
+
+[[T2 2025 Sheet 04 Question 4 - Diagonalizing Commuting Operators|T2_2025_SH_04_Q4]]
+
+
+[[T2 2025 Sheet 05 Question 1 - The Hamiltonian is Hermitian|T2_2025_SH_05_Q1]]
+
+[[T2 2025 Sheet 05 Question 2 - Differentiable Wavefunctions|T2_2025_SH_05_Q2]]
+
+[[T2 2025 Sheet 05 Question 3 - Free Particle|T2_2025_SH_05_Q3]]
+
+[[T2 2025 Sheet 05 Question 4 - Parity Operator|T2_2025_SH_05_Q4]]
+
+
+[[T2 2025 Sheet 06 Question 1 - (S) Parity|T2_2025_SH_06_Q1]]
+
+[[T2 2025 Sheet 06 Question 2 - FinPotPot Bound States|T2_2025_SH_06_Q2]]
+
+[[T2 2025 Sheet 06 Question 3 - Infinite Potential Well|T2_2025_SH_06_Q3]]
+
+[[T2 2025 Sheet 06 Question 4 - (S) Particle on a Circle|T2_2025_SH_06_Q4]]
+
+
+[[T2 2025 Sheet 07 Question 1 - Variation Calculation FinPotPot|T2_2025_SH_07_Q1]]
+
+[[T2 2025 Sheet 07 Question 2 - (S) Qualitative Analysis of Potentials|T2_2025_SH_07_Q2]]
+
+[[T2 2025 Sheet 07 Question 3 - Virial Theorem|T2_2025_SH_07_Q3]]
+
+[[T2 2025 Sheet 07 Question 4 - (S) Zeros of Bound Eigenstates|T2_2025_SH_07_Q4]]
+
+
+[[T2 2025 Sheet 08 Question 1 - Ehrenfest Theorem|T2_2025_SH_08_Q1]]
+
+[[T2 2025 Sheet 08 Question 2 - Hermite Polynomials|T2_2025_SH_08_Q2]]
+
+[[T2 2025 Sheet 08 Question 3 - (S) Harmonic Oscillator Eigenfunctions|T2_2025_SH_08_Q3]]
+
+[[T2 2025 Sheet 08 Question 4 - (S) HarmOsci, Ladder Operators|T2_2025_SH_08_Q4]]
+
+
+[[T2 2025 Sheet 09 Question 1 - (S) Tensor Product|T2_2025_SH_09_Q1]]
+
+[[T2 2025 Sheet 09 Question 2 - (S) Entanglement|T2_2025_SH_09_Q2]]
+
+[[T2 2025 Sheet 09 Question 3 - Approximation via Harmonic Potentials|T2_2025_SH_09_Q3]]
+
+[[T2 2025 Sheet 09 Question 4 - 2D Harmonic Oscillator|T2_2025_SH_09_Q4]]
+
+
+[[T2 2025 Sheet 10 Question 1 - Laguerre Polynomials|T2_2025_SH_10_Q1]]
+
+[[T2 2025 Sheet 10 Question 2 - Muonic Hydrogen|T2_2025_SH_10_Q2]]
+
+[[T2 2025 Sheet 10 Question 3 - (S) Spherical Harmonics|T2_2025_SH_10_Q3]]
+
+[[T2 2025 Sheet 10 Question 4 - (S) Visualizing Hydrogen|T2_2025_SH_10_Q4]]
+
+
+[[T2 2025 Sheet 11 Question 1 - Angular Momentum Algebra|T2_2025_SH_11_Q1]]
+
+[[T2 2025 Sheet 11 Question 2 - Quantum Laplace-Runge-Lenz Vector|T2_2025_SH_11_Q2]]
+
+
+[[T2 2025 Sheet 12 Question 1 - (S) Perturbation Hydrogen|T2_2025_SH_12_Q1]]
+
+[[T2 2025 Sheet 12 Question 2 - Fine Structure Hydrogen|T2_2025_SH_12_Q2]]
+
+[[T2 2025 Sheet 12 Question 3 - (S) Electric Dipole Transitions|T2_2025_SH_12_Q3]]
+
+
+[[T2 2025 Sheet 13 Question 1 - Separability of Position and Spin|T2_2025_SH_13_Q1]]
+
+[[T2 2025 Sheet 13 Question 2 - (S) Spin Addition|T2_2025_SH_13_Q2]]
+
+[[T2 2025 Sheet 13 Question 3 - Ortho- and Parahelium|T2_2025_SH_13_Q3]]
+
+[[T2 2025 Sheet 13 Question 4 - (S) Spin-1half Time Evolution|T2_2025_SH_13_Q4]]
+
+
+[[T2 2025 Sheet 14 Question 1 - (S) Spin-Orbit Coupling|T2_2025_SH_14_Q1]]
+
+[[T2 2025 Sheet 14 Question 2 - (S) Yukawa Potential Scattering|T2_2025_SH_14_Q2]]
+
+[[T2 2025 Sheet 14 Question 3 - Matrix Element for States of Differing Symmetry|T2_2025_SH_14_Q3]]
+
+[[T2 2025 Sheet 14 Question 4 - Photoionisation, Fermi's Golden Rule|T2_2025_SH_14_Q4]]
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
