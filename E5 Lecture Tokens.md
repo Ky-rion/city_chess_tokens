@@ -78,6 +78,12 @@
 ## [[E5 2025 Lecture 12 Overview]]
 
 
+# Lecture 13: Standard Model
+![[Standardmodell.pdf]]
+
+## [[E5 2025 Lecture 13 Overview]]
+
+
 
 
 
